@@ -23,6 +23,8 @@ Yapılan deneylerin hataları, yapacağım bir sonraki adımın parçası olacak
 
 ## REFERANS ALINAN KAYNAKLAR  
 [Bakır bobin ile çalışan motor](https://youtu.be/hGh_erQOojk?t=1m2s) 
+
 [Diyaframlı kazan ile çalışan motor](https://youtu.be/pO-wdPyyces) 
+
 [http://www.poppopboats.net](http://www.poppopboats.net/whatisapoppopboat.html) 
 
