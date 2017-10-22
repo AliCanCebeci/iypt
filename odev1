@@ -1,18 +1,27 @@
+<table>
+<thead>
+<tr>
+  <th>Sınıf</th>
+  <th>Öğrenci İsmi</th>
+  <th>Numara</th>
+</tr>
+</thead>
+<tbody><tr>
+  <td>9-E</td>
+  <td>ALİ CAN CEBECİ</td>
+  <td>624</td>
+</tr>
+</tbody></table>
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-9-E   | ALİ CAN CEBECİ | 624
 
+<h1 id="steam-boat">STEAM BOAT</h1>
 
-#  STEAM BOAT
+<p>Buharlı bot, pop pop motoru ile çalışır.  İçindeki su buharla yanıp söner ve bu suyu atış borularından iter. Daha sonra buhar kabarcığı yoğunlaşır ve soğuk su hazneye tekrar alınır. Bu işlem ısı kaynağı olduğu sürece devam eder. Böylece bot hareket eder. </p>
 
-Buharlı bot, pop pop motoru ile çalışır.  İçindeki su buharla yanıp söner ve bu suyu atış borularından iter. Daha sonra buhar kabarcığı yoğunlaşır ve soğuk su hazneye tekrar alınır. Bu işlem ısı kaynağı olduğu sürece devam eder. Böylece bot hareket eder. 
+<p>Projenin amacı bu olayı en iyi netlikte  açıklamak ve botu geliştirerek hızlanmasını sağlamaktır. İyi bir araştırma yapılmalıdır. Daha sonra deney yapmam gerekir. Yaptığım birinci deneyin sonuçları, bir sonraki tasarımın temellerini oluşturur. Yapılan deneylerin hataları, yapacağım bir sonraki adımın parçası olacaktır. </p>
 
-Projenin amacı bu olayı en iyi netlikte  açıklamak ve botu geliştirerek hızlanmasını sağlamaktır. İyi bir araştırma yapılmalıdır. Daha sonra deney yapmam gerekir. Yaptığım birinci deneyin sonuçları, bir sonraki tasarımın temellerini oluşturur. Yapılan deneylerin hataları, yapacağım bir sonraki adımın parçası olacaktır. 
+<h2 id="referans-alinan-kaynaklar">REFERANS ALINAN KAYNAKLAR</h2>
 
-
-## REFERANS ALINAN KAYNAKLAR  
-[Bakır bobin ile çalışan motor](https://youtu.be/hGh_erQOojk?t=1m2s) 
-[Diyaframlı kazan ile çalışan motor](https://youtu.be/pO-wdPyyces) 
-[http://www.poppopboats.net](http://www.poppopboats.net/whatisapoppopboat.html) 
-
+<p><a href="https://youtu.be/hGh_erQOojk?t=1m2s">Bakır bobin ile çalışan motor</a>  <br>
+<a href="https://youtu.be/pO-wdPyyces">Diyaframlı kazan ile çalışan motor</a>  <br>
+<a href="http://www.poppopboats.net/whatisapoppopboat.html">http://www.poppopboats.net</a> </p>
